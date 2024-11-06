@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @Majofe (Marcos José Ferreira)
-- 👀 I’m interested in Programming ... Music... Electronic ...
-- 📫 How to reach me ...
+Olá, eu sou @Majofe (Marcos José Ferreira)
+Minha língua mãe üe português e use um tradutor se não a fala.
 
-<!---
-Majofe/Majofe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interesses: música, programação e eltrônica
+
+Obrigado por mvisitar meu perfil Github
