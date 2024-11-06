@@ -1,5 +1,5 @@
 Olá, eu sou @Majofe (Marcos José Ferreira)
-Minha língua mãe üe português e use um tradutor se não a fala.
+Minha língua mãe é o português, use um tradutor se não fala a mesma.
 
 Interesses: música, programação e eltrônica
 
